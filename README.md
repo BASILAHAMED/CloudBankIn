@@ -16,12 +16,21 @@ Below is a brief summary of the application's key functionalities based on the p
 **2. Create a Client of Type "Person"**
 
 **3. Go to Clients Menu, Select "Client"**
-4. Open the Created Client (in Step 2) from the Listing
-5. In the Client View, Click "New Loan"
-6. Select "Product" -> Testing
-7. On Page "Details," Fill in Information
-8. Select "Repayment Mode" as "Cash/Cheque"
-9. On Page "Terms," Fill in Mandatory Values
-10. Click "Next" on Charges Page
-11. Review the Summary and Click Submit
-12. Click on Approve to Approve the Loan Status
+
+**4. Open the Created Client (in Step 2) from the Listing**
+
+**5. In the Client View, Click "New Loan"**
+
+**6. Select "Product" -> Testing**
+
+**7. On Page "Details," Fill in Information**
+
+**8. Select "Repayment Mode" as "Cash/Cheque"**
+
+**9. On Page "Terms," Fill in Mandatory Values**
+
+**10. Click "Next" on Charges Page**
+
+**11. Review the Summary and Click Submit**
+
+**12. Click on Approve to Approve the Loan Status**
