@@ -12,7 +12,9 @@ Entire automation was performed using Selenium with TestNG Framework and built a
 Below is a brief summary of the application's key functionalities based on the provided test case steps,
 
 **1. Login**
+
 **2. Create a Client of Type "Person"**
+
 **3. Go to Clients Menu, Select "Client"**
 4. Open the Created Client (in Step 2) from the Listing
 5. In the Client View, Click "New Loan"
