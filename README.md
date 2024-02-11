@@ -34,3 +34,4 @@ Below is a summary of the application's key functionalities based on the provide
 **11. Review the Summary and Click Submit**
 
 **12. Click on Approve to Approve the Loan Status**
+
