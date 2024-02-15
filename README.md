@@ -9,7 +9,7 @@ This CloudBankIN testing application is a financial or banking web application w
 Entire automation was performed using Selenium with TestNG Framework and built as Maven Project. Test reports are generated using Extent Reports with proper screenshots attached. Also cross-browser testing methodology is implemented in this project.
 
 ### Featured Test Cases
-Below is a summary of the application's key functionalities based on the provided test case steps,
+Below is a summary of the application's key functionalities based on the provided test case steps
 
 **1. Login**
 
